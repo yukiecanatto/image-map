@@ -3,7 +3,7 @@ describe('Testes E2E para o Projeto Carro', () => {
 
   beforeEach(() => { // 'beforeEach', antes de cada 'it'
     
-    cy.visit('http://127.0.0.1:5500/') // comando de teste
+    cy.visit('http://127.0.0.1:8080/') // comando de teste
   
   });
 
